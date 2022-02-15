@@ -3,7 +3,7 @@ from pyowm import OWM
 from pyowm.utils.config import get_default_config
 from telebot import types
 
-TOKEN = "1892952559:AAFIyjUT1h-IPoM6jZJH2yT7ev29YApaSyE"
+TOKEN = "1500236021:AAHEGLcZSeCBBYxu7Ng-q7qUWXmUddSvjPU"
 bot = telebot.TeleBot(token=TOKEN)
 
 API_Key = "87395221864d4fa7a9319a0afc33b986"
